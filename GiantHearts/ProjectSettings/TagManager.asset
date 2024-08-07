@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grid
+  - Mineral1
+  - Mineral2
+  - Player_Common
+  - Player_UP_Platform
+  - Particle_Smoke
+  - Conveyor_stright
+  - Conveyor_Turn_L
+  - Conveyor_Turn_R
+  - Conveyor_Down
+  - Conveyor_UP
+  - Resource_Coal
+  - Resource_Copper
+  - Resource_Iron
+  - Resource_Meteorite
+  - Resource_Mythril
+  - Splitter
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PostProcessing_DOF
+  - PostProcessing_Bloom
+  - Resource
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
